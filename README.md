@@ -1,6 +1,6 @@
 # Maps-Project
 
-[voronoi](https://shuttr-dev-seeds.s3-us-west-1.amazonaws.com/voronoi.jpg)
+![voronoi](https://shuttr-dev-seeds.s3-us-west-1.amazonaws.com/voronoi.jpg)
 
 [Project Details](http://inst.eecs.berkeley.edu/~cs61a/sp17/proj/maps/)
 
